@@ -1,0 +1,26 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "Solidifying the steps for setting up an app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":  "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymclapp/newApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymclapp/newApp/issues"
+  },
+  "homepage": "https://github.com/ymclapp/newApp#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node": "^16.3.0"
+  }
+}
